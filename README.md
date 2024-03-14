@@ -24,6 +24,7 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
+```
 <html>
 	<head>
 		<title>Sample Web Page</title>
@@ -111,7 +112,7 @@ Execute the program using runserver command.
 			<td align="center">EDM</td>
 		</tr>
 	</body>
-
+```
 
 ## OUTPUT
 ![Screenshot 2024-03-14 153128](https://github.com/Samakas/slot/assets/154731670/a8f2086d-df9d-4613-a1d0-0c53272e57ed)
